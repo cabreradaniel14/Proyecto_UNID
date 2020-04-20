@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/danie/codigos/UNID/main.cpp
+iostream
+-
+sstream
+-
+iomanip
+-
+fstream
+-
+vector
+-
+
